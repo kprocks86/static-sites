@@ -1,0 +1,290 @@
+.app-navbar {
+    background-color: #4594CF !important;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 1050;
+    display: flex;
+}
+
+.app-navbar>a {
+    padding: 10px;
+    color: aliceblue;
+    align-content: center;
+}
+
+.app-navbar>a>img {
+    display: inline;
+    max-width: 100px;
+}
+
+.search-area {
+    padding-left: 45%;
+    display: flex;
+}
+
+.aa {
+    margin-top: 6%;
+}
+
+.aa .row>div {
+    /* remove this border after ui is complete developed*/
+}
+
+.aej {
+    position: relative;
+    border: 1px solid #DFDFDF;
+}
+
+.qf {
+    height: 150px;
+    background-size: contain;
+    background-image: url(https://bootstrap-themes.github.io/application/assets/img/iceland.jpg);
+}
+
+.axdr {
+    text-align: center !important;
+    margin-top: -40px;
+    color: black !important;
+}
+
+.bpg {
+    border-radius: 100%;
+    max-width: 100px;
+}
+
+.ade {}
+
+.qwe {
+    font-size: 12px;
+}
+
+.bpk {
+    list-style: none;
+    display: inline-flex;
+    margin-top: 15px;
+}
+
+.lds {
+    border-right: 1px solid #d4dbe0;
+    padding: 0 10px;
+    font-size: 12px;
+    color: inherit;
+}
+
+.lds:last-child {
+    border-right: 0;
+}
+
+li {
+    list-style: none;
+}
+
+.qsw ul li {
+    font-size: 12px;
+    color: #693654;
+}
+
+.qsw ul li::before {
+    color: #6C747C;
+    margin-right: 10px;
+}
+
+.qsw {
+    border: 1px solid #DFDFDF;
+    margin-top: 15px
+}
+
+.h:before {
+    position: initial;
+    top: 2px;
+    display: inline-block;
+    font-family: "toolkit-entypo";
+    speak: none;
+    font-size: 100%;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.ban:before {
+    content: "\EA3D";
+    margin-left: -40px;
+}
+
+.rrt {}
+
+.qa {
+    padding: 12px;
+}
+
+.bb {
+    border: 1px solid #DFDFDF;
+}
+
+.casa {
+    margin-top: 15px;
+}
+
+.flex-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.flex-container>img {
+    background-color: #f1f1f1;
+    width: 100px;
+    height: 100px;
+    margin: 5px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 30px;
+}
+
+.as {
+    background-color: #FBEFDB;
+    display: flex;
+}
+
+.as>h6 {
+    padding: 10px;
+}
+
+.as>button {
+    background: transparent;
+    border: 0;
+    position: relative;
+    top: -10px;
+    right: 8px;
+}
+
+.asdf {
+    margin-top: 15px;
+}
+
+.axzc {
+    padding: 10px 0;
+}
+
+.frew {
+    margin-top: 15px;
+}
+
+.avatar-size-1 {
+    border-radius: 100%;
+    max-width: 60px;
+}
+
+.grt {
+    display: -webkit-inline-box;
+}
+
+.bgh {
+    margin-right: 15px;
+    max-height: 65px;
+}
+
+.gtry {
+    margin-top: 6px;
+}
+
+.grt:first-child {
+    padding-bottom: 10px;
+}
+
+.poe {
+    background-color: #F7F7F7;
+}
+
+.poe>h6 {
+    font-weight: 100;
+    color: #6D6F72;
+}
+
+.lsrt {
+    margin-top: 15px;
+}
+
+.wdrt {
+    padding: 13px;
+    padding-bottom: inherit;
+    border-bottom: 1px solid #DFDFDF !important;
+}
+
+.qsu {
+    padding: 0 0px !important;
+}
+
+.axc {
+    float: right !important;
+}
+
+.rrt {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    width: 85%;
+}
+
+.dic {}
+
+.images {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.images img:nth-child(1) {
+    width: 268px;
+    height: 182px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+.images img:nth-child(2) {
+    width: 182px;
+    height: 182px;
+}
+
+.images img:nth-child(3) {
+    width: 182px;
+    height: 182px;
+    margin-right: 10px;
+}
+
+.images img:nth-child(4) {
+    width: 268px;
+    height: 182px;
+}
+
+.avatar-size-2 {
+    border-radius: 100%;
+    max-height: 50px;
+}
+
+.erty {
+    display: flex;
+    flex-direction: row;
+    margin-top: 15px;
+}
+
+.erty>div {
+    padding-left: 30px;
+    width: 90%;
+    height: 33%;
+}
+
+.mnty {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.mnty>p {
+    margin-left: 5px;
+    flex: 1;
+    color: #4594CF;
+}
